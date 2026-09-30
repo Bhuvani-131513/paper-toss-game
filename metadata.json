@@ -1,0 +1,6 @@
+{
+  "name": "Paper Toss Classic",
+  "description": "The ultimate arcade paper tossing game with realistic physics, dynamic wind fans, office environments, and combo streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
